@@ -1,2 +1,4 @@
 # hello-world
-Learning something new everyday
+Hello! 
+
+Learning something something. I love coding!!! love styling!!! love colors!!!
